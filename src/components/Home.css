@@ -1,0 +1,27 @@
+.home-section {
+  height: 100vh;
+  background: linear-gradient(to right, #4080da, #3a6073);
+  padding: 0 15px;
+}
+
+.highlight {
+  color: orange;
+  font-weight: bold;
+}
+
+.react-logo {
+  width: 200px;
+  border-radius: 50%;
+  height: 200px;
+  object-fit:cover;
+  animation: none 20s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
