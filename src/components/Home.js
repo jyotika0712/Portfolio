@@ -10,7 +10,7 @@ function Home() {
         <div className="row align-items-center">
           <div className="col-md-6 text-start">
             <h1>Hi, I'm <span className="highlight">Jyotika Chourasia</span></h1>
-            <p>Full Stack Developer passionate about creating innovative web solutions</p>
+            <p>B.Tech Undergratuate student passionate about creating innovative web solutions</p>
             <div className="mt-4">
               <button className="btn btn-warning me-2">View My Work</button>
               <button className="btn btn-outline-light">Get In Touch</button>

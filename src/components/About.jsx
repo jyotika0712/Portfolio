@@ -7,7 +7,7 @@ function About() {
       <Container >
         <h2 className="text-center fw-bold mb-4">About Me</h2>
         <p className="text-center mb-5">
-          I'm a passionate full-stack developer with 3+ years of experience creating web applications that solve real-world problems. 
+          I'm a passionate CS B.Tech student as fresher creating web applications that solve real-world problems. 
           I love working with modern technology and am always eager to learn new things.
         </p>
         <Row className="justify-content-center">
